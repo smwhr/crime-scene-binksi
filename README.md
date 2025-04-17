@@ -12,5 +12,5 @@ Notable changes include :
 - some choices are moved a level deeper in order to put them behind a tagged choice
 - added some default choices to allow the player to walk around
 - choice text is shortened to fit in the 40 characters limitation
-- SPAWN_AT and CUTSCENE are sprinkled all over to give life to the scene
+- `SPAWN_AT` and `CUTSCENE` are sprinkled all over to give life to the scene
 
