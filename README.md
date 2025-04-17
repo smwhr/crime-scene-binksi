@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/dcf9fb37-957a-4d49-9947-9ada2cc4b17d)
+<img src="https://github.com/user-attachments/assets/dcf9fb37-957a-4d49-9947-9ada2cc4b17d" width=400 />
 
 
-Crime scene is the [binksi](https://smwhr.itch.io/binksi) adaptation of the [crime scene example](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#7-long-example-crime-scene) found in ink's documentation.
+**Crime Scene** is the [binksi](https://smwhr.itch.io/binksi) adaptation of the [crime scene example](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md#7-long-example-crime-scene) found in ink's documentation.
 
 You can [play the scene on itch.io](https://smwhr.itch.io/crime-scene).
 
